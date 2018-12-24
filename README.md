@@ -1,6 +1,5 @@
-# PythonApplicationProgramming
+# Advance Application Programming
 
-Advance Application Programming
 CSE 8392 Special Topics (Advanced Application Programming)
 
 Welcome !!
